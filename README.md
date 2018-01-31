@@ -12,3 +12,6 @@ Blocks-N-Head is an Opensource game in which you have to save the character from
 2. open [index.html](https://github.com/mr-ravin/Blocks-N-Head/blob/master/index.html)
 
 ### Available to Play Online for FREE, on [itch.io](https://ravinkumar.itch.io/blocks-n-head)
+
+### Crazy Stuff
+- Press any of the '<-,'^','V','->' arrow keys and see a crazy moment :D 
