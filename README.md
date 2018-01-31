@@ -4,7 +4,7 @@ Blocks-N-Head is an Opensource game in which you have to save the character from
 
 ## Play the Game :)
 
-[![Working Demonstration](https://github.com/mr-ravin/Blocks-N-Head/blob/master/Blocks-N-Head.gif)](https://www.youtube.com/watch?v=SxHFd3Syeqs)
+[![Working Demonstration](https://github.com/mr-ravin/Blocks-N-Head/blob/master/Blocks-N-Head.gif)]](https://ravinkumar.itch.io/blocks-n-head)
 
 ### Instruction for playing from the available code :-
 
