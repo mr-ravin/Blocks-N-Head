@@ -2,6 +2,8 @@
 
 Blocks-N-Head is an Opensource game in which you have to save the character from hitting the Falling Blocks ;)
 
+#### Author: [Ravin Kumar](https://mr-ravin.github.io)
+
 ## Play the Game :)
 
 [![Working Demonstration](https://github.com/mr-ravin/Blocks-N-Head/blob/master/Blocks-N-Head.gif)](https://ravinkumar.itch.io/blocks-n-head)
