@@ -23,3 +23,5 @@ Blocks-N-Head is an Opensource game in which you have to save the character from
 [![GODOT](https://github.com/mr-ravin/Blocks-N-Head/blob/master/godot_logo.png)](https://godotengine.org/)
 
 ###### We would like to thank GODOT Game Engine, for making an awesome opensource game engine.
+
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
