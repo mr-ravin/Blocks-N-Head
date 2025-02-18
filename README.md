@@ -1,6 +1,6 @@
 # Blocks-N-Head
 
-Blocks-N-Head is an open-source game where the objective is to help the character avoid falling blocks.
+Blocks-N-Head is an open-source minimalistic video game where the objective is to help the character avoid falling blocks.
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
